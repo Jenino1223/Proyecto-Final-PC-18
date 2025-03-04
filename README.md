@@ -9,5 +9,6 @@ board.py
 player.py
 dice.py
 Ejecutar los archivos y escoger el modo de juego, 1. para dados aleatorios o 2. para modo desarrollador.
-Este mostrara los turnos de los jugadores y permitira jugar de manera ordenada.
+Este mostrara el juego en el tablero, como se mueven las fichas, salen de la carcel y llegan a su destino.
+De esta manera utilizando programacion orientada a objetos se implemento un parqués funcional con las reglas basicas. 
 Gracias.
